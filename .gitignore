@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.*
+
+# Runtime — uploaded files & generated reports
+uploads/
+output/
+
+# IDE / OS
+.claude/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

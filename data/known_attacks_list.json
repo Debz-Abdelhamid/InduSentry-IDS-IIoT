@@ -1,0 +1,14 @@
+[
+    "DDoS_UDP",
+    "DDoS_ICMP",
+    "SQL_injection",
+    "DDoS_TCP",
+    "Vulnerability_scanner",
+    "Password",
+    "DDoS_HTTP",
+    "Uploading",
+    "Backdoor",
+    "Port_Scanning",
+    "XSS",
+    "Ransomware"
+]

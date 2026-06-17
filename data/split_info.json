@@ -1,0 +1,33 @@
+{
+    "xgb_train_shape": [
+        1526767,
+        42
+    ],
+    "xgb_train_normal": 1091198,
+    "xgb_train_attack": 435569,
+    "test_hybrid_shape": [
+        382904,
+        42
+    ],
+    "test_hybrid_normal": 272800,
+    "test_hybrid_attack": 110104,
+    "rare_attacks": [
+        "Fingerprinting",
+        "MITM"
+    ],
+    "known_attacks": [
+        "DDoS_UDP",
+        "DDoS_ICMP",
+        "SQL_injection",
+        "DDoS_TCP",
+        "Vulnerability_scanner",
+        "Password",
+        "DDoS_HTTP",
+        "Uploading",
+        "Backdoor",
+        "Port_Scanning",
+        "XSS",
+        "Ransomware"
+    ],
+    "rare_threshold": 2000
+}
